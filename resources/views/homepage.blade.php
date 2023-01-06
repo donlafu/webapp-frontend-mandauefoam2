@@ -3,6 +3,8 @@
 @section('content')
 
 
+<<<<<<< HEAD
+=======
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex justify-content-between">
@@ -45,6 +47,7 @@
 
     </div>
   </header><!-- End Header -->
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
 
   <!-- ======= hero Section ======= -->
   <section id="hero">
@@ -55,7 +58,11 @@
 
         <div class="carousel-inner" role="listbox">
 
+<<<<<<< HEAD
+          <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/0.jpg)">
+=======
           <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/6.jpg)">
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
@@ -65,7 +72,11 @@
             </div>
           </div>
 
+<<<<<<< HEAD
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/8.jpg)">
+=======
           <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/4.jpg)">
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
@@ -75,7 +86,11 @@
             </div>
           </div>
 
+<<<<<<< HEAD
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/9.jpg)">
+=======
           <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/5.jpg)">
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -107,7 +122,11 @@
         <div class="row">
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
+<<<<<<< HEAD
+              <h2>About Us</h2>
+=======
               <h2>About eBusiness</h2>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
             </div>
           </div>
         </div>
@@ -127,6 +146,16 @@
             <div class="well-middle">
               <div class="single-well">
                 <a href="#">
+<<<<<<< HEAD
+                  <h4 class="sec-head">BEGINNINGS AND HISTORY</h4>
+                </a>
+                <p>
+                    Started in 1971 by Mrs. Rosita T. Uy as a foam manufacturer in Cebu, Mandaue Foam has rapidly grown over the past 50 years because of its commitment to provide its customers with quality and value for money products. Today, Mandaue Foam is one of the country’s top 1000 corporations and has over 30 factories and showrooms nationwide. Its trademark products include its signature Flex Foam and Hotel Quality Gala Bed Mattress.
+
+                    Soon after it started, Mandaue Foam sensed a need in the market for a more complete home store and it began to expand and diversify its product lines to include pillows, sofas, dining tables, bed frames, and other small home items. Today, Mandaue Foam continues to augment its product lines and innovate by offering customized furniture among others.
+
+
+=======
                   <h4 class="sec-head">project Maintenance</h4>
                 </a>
                 <p>
@@ -149,6 +178,7 @@
                     <i class="bi bi-check"></i> Make Quality Products
                   </li>
                 </ul>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
               </div>
             </div>
           </div>
@@ -176,9 +206,15 @@
                   <a class="services-icon" href="#">
                     <i class="bi bi-briefcase"></i>
                   </a>
+<<<<<<< HEAD
+                  <h4>For Everyday Living</h4>
+                  <p>
+                    We are more than just a foam company. Our products range from furniture to houseware, and many more.
+=======
                   <h4>Expert Coder</h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -192,9 +228,15 @@
                   <a class="services-icon" href="#">
                     <i class="bi bi-card-checklist"></i>
                   </a>
+<<<<<<< HEAD
+                  <h4>We Customize</h4>
+                  <p>
+                    Can’t find the perfect furniture you? We help you personalize furniture so you always get the perfect one.
+=======
                   <h4>Creative Designer</h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -209,9 +251,15 @@
                   <a class="services-icon" href="#">
                     <i class="bi bi-bar-chart"></i>
                   </a>
+<<<<<<< HEAD
+                  <h4>Return Policy</h4>
+                  <p>
+                    Not satisfied? We guarantee a 30-day return and exchange so you can get the best out of our products.
+=======
                   <h4>Wordpress Developer</h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -226,9 +274,15 @@
                   <a class="services-icon" href="#">
                     <i class="bi bi-binoculars"></i>
                   </a>
+<<<<<<< HEAD
+                  <h4>We Deliver </h4>
+                  <p>
+                    From our store straight to your door, we deliver our products to you for a hassle-free shopping experience.
+=======
                   <h4>Social Marketer </h4>
                   <p>
                     will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -438,6 +492,8 @@
       </div>
     </div><!-- End Rviews Section -->
 
+<<<<<<< HEAD
+=======
     <!-- ======= Portfolio Section ======= -->
     <div id="portfolio" class="portfolio-area area-padding fix">
       <div class="container">
@@ -637,6 +693,7 @@
         </div>
       </div>
     </div><!-- End Pricing Section -->
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
 
     <!-- ======= Testimonials Section ======= -->
     <div id="testimonials" class="testimonials">
@@ -836,7 +893,11 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
             <div class="suscribe-text text-center">
+<<<<<<< HEAD
+              <h3>Welcome to Mandaue Foam</h3>
+=======
               <h3>Welcome to our eBusiness company</h3>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
               <a class="sus-btn" href="#">Get A quote</a>
             </div>
           </div>
@@ -863,8 +924,13 @@
                 <div class="single-icon">
                   <i class="bi bi-phone"></i>
                   <p>
+<<<<<<< HEAD
+                    Call: (032) 265 5280<br>
+                    <span>Sunday-Saturday (10am-8pm)</span>
+=======
                     Call: +1 5589 55488 55<br>
                     <span>Monday-Friday (9am-5pm)</span>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -875,8 +941,13 @@
                 <div class="single-icon">
                   <i class="bi bi-envelope"></i>
                   <p>
+<<<<<<< HEAD
+                    Email: mandauefoam@gmail.com<br>
+                    <span>mandauefoam.com.ph</span>
+=======
                     Email: info@example.com<br>
                     <span>Web: www.example.com</span>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -887,8 +958,13 @@
                 <div class="single-icon">
                   <i class="bi bi-geo-alt"></i>
                   <p>
+<<<<<<< HEAD
+                    Location: J C Aquino Avet<br>
+                    <span>Butuan City, Agusan Del Norte</span>
+=======
                     Location: A108 Adam Street<br>
                     <span>NY 535022, USA</span>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                   </p>
                 </div>
               </div>
@@ -899,7 +975,11 @@
             <!-- Start Google Map -->
             <div class="col-md-6">
               <!-- Start Map -->
+<<<<<<< HEAD
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.3098364725743!2d125.522712514786!3d8.943570193580152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3301c0475f60110b%3A0xc011eb1a725faa40!2sMandaue%20Foam!5e0!3m2!1sen!2sph!4v1672936431215!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+=======
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
               <!-- End Map -->
             </div>
             <!-- End Google Map -->
@@ -946,10 +1026,17 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
+<<<<<<< HEAD
+                  <h2><span>M</span>andaue Foam</h2>
+                </div>
+
+                <p>Mandaue Foam Home Store is a one-stop shop for all your foam and furniture needs. Look through our online selection for pieces that will complete your home from pillows, foam mattress, spring mattress, dining sets, sofas, bed sheets, office chairs, dressers and all things for home. You can find it all in Mandaue Foam.</p>
+=======
                   <h2><span>e</span>Business</h2>
                 </div>
 
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                 <div class="footer-icons">
                   <ul>
                     <li>
@@ -973,6 +1060,15 @@
           <div class="col-md-4">
             <div class="footer-content">
               <div class="footer-head">
+<<<<<<< HEAD
+                <h4>Customer Support Hotline</h4>
+
+                <div class="footer-contacts">
+                  <p><span>Luz:</span> (02) 8424 3000</p>
+                  <p><span>Viz/Min:</span> (032) 265 5280</p>
+                  <p><span>Email:</span> mandauefoam.ph</p>
+                  <p><span>Working Hours:</span> 10am-8pm</p>
+=======
                 <h4>information</h4>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
@@ -981,6 +1077,7 @@
                   <p><span>Tel:</span> +123 456 789</p>
                   <p><span>Email:</span> contact@example.com</p>
                   <p><span>Working Hours:</span> 9am-5pm</p>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
                 </div>
               </div>
             </div>
@@ -1010,7 +1107,11 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
+<<<<<<< HEAD
+                &copy; Copyright <strong>2023 Mandaue Foam Philippines</strong>. All Rights Reserved
+=======
                 &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
               </p>
             </div>
             <div class="credits">
@@ -1020,7 +1121,11 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
             -->
+<<<<<<< HEAD
+              Designed by <a href="https://bootstrapmade.com/"> Tom Canseco</a>
+=======
               Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
             </div>
           </div>
         </div>
@@ -1031,4 +1136,8 @@
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
+<<<<<<< HEAD
+  @endsection
+=======
 @endsection
+>>>>>>> 8df8ad7453812f3e94bbc18f3cbec72bdd8cd81f
