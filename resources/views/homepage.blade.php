@@ -3,7 +3,7 @@
 @section('content')
 
 
-  </header><!-- End Header -->
+
 
   <!-- ======= hero Section ======= -->
   <section id="hero">
@@ -14,7 +14,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/0.jpg)">
+          <div class="carousel-item active" style="background-image: url(assets-homepage/assets/img/hero-carousel/0.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
@@ -24,7 +24,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/8.jpg)">
+          <div class="carousel-item" style="background-image: url(assets-homepage/assets/img/hero-carousel/8.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
@@ -34,7 +34,7 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/9.jpg)">
+          <div class="carousel-item" style="background-image: url(assets-homepage/assets/img/hero-carousel/9.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
@@ -760,7 +760,6 @@
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
             -->
               Designed by <a href="https://bootstrapmade.com/"> Tom Canseco</a>
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
           </div>
         </div>
