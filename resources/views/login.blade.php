@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('login')
+@section('content')
 
     <!-- Masthead-->
     <header class="masthead bg-primary text-white text-center">

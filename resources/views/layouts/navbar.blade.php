@@ -16,6 +16,7 @@
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="{{ url('/') }}/dashboard">Dashboard</a></li>
           <li><a class="nav-link scrollto" href="{{ url('/') }}/login">Login</a></li>
         @else
             <li><a class="nav-link scrollto active" href="{{ url('/') }}#hero">Home</a></li>
@@ -23,10 +24,11 @@
             <li><a class="nav-link scrollto" href="{{ url('/') }}#services">Services</a></li>
             <li><a class="nav-link scrollto" href="{{ url('/') }}#team">Team</a></li>
             <li><a class="nav-link scrollto" href="{{ url('/') }}#contact">Contact</a></li>
+            <li><a class="nav-link scrollto" href="dashboard">Dashboard</a></li>
             <li><a class="nav-link scrollto" href="{{ url('/login') }}/login">Login</a></li>
         @endif
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      </nav><!-- navbar -->
 
     </div>
   </header>
